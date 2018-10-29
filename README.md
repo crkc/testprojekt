@@ -1,2 +1,2 @@
-# testprojekt
-Ein einstige in github
+# Testprojekt
+Ein Einstieg in Github
